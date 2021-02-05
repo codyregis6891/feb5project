@@ -1,14 +1,15 @@
 * {
+ margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+color: white;
 background-image: url("https://i.pinimg.com/originals/8b/6f/aa/8b6faa54ca5c5657cb5319001de14265.jpg");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
-
-
-}
-
-body {
-    color: white;
 }
 
 #Current-Roster {
